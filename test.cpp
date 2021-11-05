@@ -97,7 +97,7 @@ int test::number_guesser_from_user()
             goto label4;
         }
         if (hint_plus[last_index] != 4){
-            std::cout << "- :";
+            std::cout << " - : ";
             std::cin >> hint_minus[last_index];
         }
         current_index=current_index+1;
