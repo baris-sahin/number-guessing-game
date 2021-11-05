@@ -1,5 +1,5 @@
 # number-guessing-game
-Number guessing game written on C++ by Barış Şahin for CS-TECH interview exam. 
+Number guessing game written on C++ by Barış Şahin for CS-TECH interview exam.
 
 Guide to compile on ubuntu
 
